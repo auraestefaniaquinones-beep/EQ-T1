@@ -1,0 +1,6 @@
+Taller 1 – Ingeniería de Software
+
+Este archivo corresponde al primer taller del curso.
+Aquí se realiza el primer commit del repositorio.
+
+autora: Aura Estefania Quiñones 
